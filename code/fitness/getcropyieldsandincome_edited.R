@@ -1,6 +1,5 @@
   ##############################################################################
   #############################################################################
-  #' ehk21@ic.ac.uk - May 2022
   #' 
   #' calculates economic income of landscape for specified crops, adjusting pollinator-dependent crop values by visitation rate as calculated in fitness function. 
   #'
