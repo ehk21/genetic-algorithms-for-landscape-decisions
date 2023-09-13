@@ -1,6 +1,5 @@
 ################################################################################
 ################################################################################
-#' ehk21@ic.ac.uk - May 2022
 #'
 #' Script to run multi-objective optimisation of a specified arable landscape on an HPC cluster
 #'
