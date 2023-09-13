@@ -1,6 +1,5 @@
 ################################################################################
 ################################################################################
-#' ehk21@ic.ac.uk - May 2022
 #' 
 #' Objective function consists of: maximising floral visitation rate for ground-nesting bumblebees; maximising floral visitation rate for tree-nesting bumblebees; 
 #' maximising floral visitation rate for ground nesting solitary bees; maximising crop-pollination services (economic benefits)
