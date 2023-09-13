@@ -1,0 +1,9 @@
+crop,Code_ExpOp_GFS,relationship,coefficient,se,source_coeff,av_original_arbitrary
+OS,33,inverse_exp,-0.015152,0.002039,Regression_peryieldpoint_osr.R,0.004201515
+FB,28,linear,0.592231,0.046734,Regression_peryieldpoint_beans.R,0.000190862
+Coniferous Woodland,3,none,0,0,NA,NA
+Deciduous Woodland,4,none,0,0,NA,NA
+Fallow,6,none,0,0,NA,NA
+Improved Permanent Grasslands,14,none,0,0,NA,NA
+Unimproved Meadow,21,none,0,0,NA,NA
+Cereal,30,none,0,0,NA,NA

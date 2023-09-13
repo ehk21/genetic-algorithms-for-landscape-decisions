@@ -1,0 +1,91 @@
+Code_Spatial,Landclass_Spatial,Dataset_Spatial,Landclass_Traffic,Landclass_ExpOp,Landclass_ExpOp_Lowland,Landclass_ExpOp_Upland,Code_ExpOp_GFS,Landclass_ExpOp_GFS
+1,Deciduous woodland,LCM2019,,Broadleaved Woodland,Broadleaved Woodland,Broadleaved Woodland,4,Deciduous woodland
+2,Coniferous woodland,LCM2019,,Coniferous Woodland,Coniferous Woodland,Coniferous Woodland,3,Coniferous Woodland
+3,Arable,LCM2019,,Arable and Horticulture,Arable and Horticulture,Arable and Horticulture,30,Cereal
+4,Improve grassland,LCM2019,,Improved Grassland,Improved Grassland,Improved Grassland,14,Improved Permanent Grassland
+5,Neutral grassland,LCM2019,,,Lowland Semi-natural Grassland,Upland Semi-natural Grassland,22,Unimproved Permanent Grassland
+6,Calcareous grassland,LCM2019,,,Lowland Semi-natural Grassland,Upland Semi-natural Grassland,22,Unimproved Permanent Grassland
+7,Acid grassland,LCM2019,,,Lowland Semi-natural Grassland,Upland Semi-natural Grassland,22,Unimproved Permanent Grassland
+8,Fen,LCM2019,,"Fen, Marsh and Swamp","Fen, Marsh and Swamp","Fen, Marsh and Swamp",23,Wetlands
+9,Heather,LCM2019,,,Lowland Heathland,Upland Heathland,15,Moorland
+10,Heather grassland,LCM2019,,,Lowland Heathland_Heather grassland (i.e. low heather density),Upland Heathland_Heather grassland (i.e. low heather density),15,Moorland
+11,Bog,LCM2019,,Bog,Bog,Bog,23,Wetlands
+12,Inland rock,LCM2019,,Inland Rock,Inland Rock,Inland Rock,0,Unsuitable
+13,Saltwater,LCM2019,,Saltwater,Saltwater,Saltwater,0,Unsuitable
+14,Freshwater,LCM2019,,Freshwater,Freshwater,Freshwater,0,Unsuitable
+15,Supralittoral rock,LCM2019,,Coastal Rock,Coastal Rock,Coastal Rock,0,Unsuitable
+16,Supralittoral sediment,LCM2019,,Coastal Sediment,Coastal Sediment,Coastal Sediment,2,"Beaches, Sand Dunes/Plane"
+17,Littoral rock,LCM2019,,Coastal Rock,Coastal Rock,Coastal Rock,0,Unsuitable
+18,Littoral sediment,LCM2019,,Coastal Sediment,Coastal Sediment,Coastal Sediment,2,"Beaches, Sand Dunes/Plane"
+19,Saltmarsh,LCM2019,,Saltmarsh,Saltmarsh,Saltmarsh,19,Salt Marsh
+20,Urban,LCM2019,,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",46,Urban
+21,Suburban,LCM2019,,Suburban (areas with a mixture of buildings and gardens),Suburban (areas with a mixture of buildings and gardens),Suburban (areas with a mixture of buildings and gardens),7,Gardens
+50,WinterWheat,PlusCrops2019,,Arable and Horticulture_Winter cereals,Arable and Horticulture_Winter cereals,Arable and Horticulture_Winter cereals,30,Cereal
+51,SpringWheat,PlusCrops2019,,Arable and Horticulture_Spring cereals,Arable and Horticulture_Spring cereals,Arable and Horticulture_Spring cereals,30,Cereal
+52,WinterBarley,PlusCrops2019,,Arable and Horticulture_Winter cereals,Arable and Horticulture_Winter cereals,Arable and Horticulture_Winter cereals,30,Cereal
+53,SpringBarley,PlusCrops2019,,Arable and Horticulture_Spring cereals,Arable and Horticulture_Spring cereals,Arable and Horticulture_Spring cereals,30,Cereal
+54,OilseedRape,PlusCrops2019,,Arable and Horticulture_Oilseed rape,Arable and Horticulture_Oilseed rape,Arable and Horticulture_Oilseed rape,33,Oilseed Rape
+55,FieldBeans,PlusCrops2019,,Arable and Horticulture_Field beans,Arable and Horticulture_Field beans,Arable and Horticulture_Field beans,28,Broad/Field Beans
+56,Potatoes,PlusCrops2019,,"Arable and Horticulture_Potatoes, root crops and vegetables","Arable and Horticulture_Potatoes, root crops and vegetables","Arable and Horticulture_Potatoes, root crops and vegetables",38,Potatoes
+57,SugarBeet,PlusCrops2019,,"Arable and Horticulture_Potatoes, root crops and vegetables","Arable and Horticulture_Potatoes, root crops and vegetables","Arable and Horticulture_Potatoes, root crops and vegetables",42,Sugar Beet
+58,Maize,PlusCrops2019,,Arable and Horticulture_Maize,Arable and Horticulture_Maize,Arable and Horticulture_Maize,32,Maize
+59,ImprovedGrass,PlusCrops2019,,Improved Grassland,Improved Grassland,Improved Grassland,14,Improved Permanent Grassland
+60,Other,PlusCrops2019,,"Arable and Horticulture_Potatoes, root crops and vegetables","Arable and Horticulture_Potatoes, root crops and vegetables","Arable and Horticulture_Potatoes, root crops and vegetables",30,Cereal
+61,Peas,PlusCrops2019,,"Arable and Horticulture_Potatoes, root crops and vegetables","Arable and Horticulture_Potatoes, root crops and vegetables","Arable and Horticulture_Potatoes, root crops and vegetables",37,Peas
+62,WinterOats,PlusCrops2019,,Arable and Horticulture_Winter cereals,Arable and Horticulture_Winter cereals,Arable and Horticulture_Winter cereals,30,Cereal
+63,SolarFarm,PlusCrops2019,,Improved Grassland,Improved Grassland,Improved Grassland,14,Improved Permanent Grassland
+150,Allotments Or Community Growing Spaces,OSGreenSpace,,Urban Greenspace,Urban Greenspace,Urban Greenspace,7,Gardens
+151,Bowling Green,OSGreenSpace,,Urban Greenspace_Playing fields (i.e. grass without trees),Urban Greenspace_Playing fields (i.e. grass without trees),Urban Greenspace_Playing fields (i.e. grass without trees),14,Improved Permanent Grassland
+152,Cemetery,OSGreenSpace,,Urban Greenspace_Cemeteries,Urban Greenspace_Cemeteries,Urban Greenspace_Cemeteries,7,Gardens
+153,Golf Course,OSGreenSpace,,Urban Greenspace,Urban Greenspace,Urban Greenspace,8,Golf Courses
+154,Other Sports Facility,OSGreenSpace,,Urban Greenspace_Playing fields (i.e. grass without trees),Urban Greenspace_Playing fields (i.e. grass without trees),Urban Greenspace_Playing fields (i.e. grass without trees),14,Improved Permanent Grassland
+155,Play Space,OSGreenSpace,,Urban Greenspace,Urban Greenspace,Urban Greenspace,14,Improved Permanent Grassland
+156,Playing Field,OSGreenSpace,,Urban Greenspace_Playing fields (i.e. grass without trees),Urban Greenspace_Playing fields (i.e. grass without trees),Urban Greenspace_Playing fields (i.e. grass without trees),14,Improved Permanent Grassland
+157,Public Park Or Garden,OSGreenSpace,,Urban Greenspace_Parks (i.e. grass with some trees),Urban Greenspace_Parks (i.e. grass with some trees),Urban Greenspace_Parks (i.e. grass with some trees),7,Gardens
+158,Religious Grounds,OSGreenSpace,,Urban Greenspace_Cemeteries,Urban Greenspace_Cemeteries,Urban Greenspace_Cemeteries,7,Gardens
+159,Tennis Court,OSGreenSpace,,Urban Greenspace_Playing fields (i.e. grass without trees),Urban Greenspace_Playing fields (i.e. grass without trees),Urban Greenspace_Playing fields (i.e. grass without trees),0,Unsuitable
+1001,Blanket bog,PriorityHabitats,,Bog_Blanket bog,Bog_Blanket bog,Bog_Blanket bog,23,Wetlands
+1002,Calaminarian grassland,PriorityHabitats,,Upland Semi-natural Grassland,Upland Semi-natural Grassland,Upland Semi-natural Grassland,22,Unimproved Permanent Grassland
+1003,Coastal and floodplain grazing marsh,PriorityHabitats,,Lowland Semi-natural Grassland,Lowland Semi-natural Grassland,Lowland Semi-natural Grassland,22,Unimproved Permanent Grassland
+1004,Coastal sand dunes,PriorityHabitats,,Coastal Sediment_Coastal sand dunes,Coastal Sediment_Coastal sand dunes,Coastal Sediment_Coastal sand dunes,2,"Beaches, Sand Dunes/Plane"
+1005,Coastal vegetated shingle,PriorityHabitats,,Coastal Rock_Coastal vegetated shingle,Coastal Rock_Coastal vegetated shingle,Coastal Rock_Coastal vegetated shingle,0,Unsuitable
+1006,Deciduous woodland,PriorityHabitats,,Broadleaved Woodland,Broadleaved Woodland,Broadleaved Woodland,4,Deciduous woodland
+1007,Limestone pavement,PriorityHabitats,,Inland Rock,Inland Rock,Inland Rock,0,Unsuitable
+1008,Lowland calcareous grassland,PriorityHabitats,,Lowland Semi-natural Grassland,Lowland Semi-natural Grassland,Lowland Semi-natural Grassland,22,Unimproved Permanent Grassland
+1009,Lowland dry acid grassland,PriorityHabitats,,Lowland Semi-natural Grassland,Lowland Semi-natural Grassland,Lowland Semi-natural Grassland,22,Unimproved Permanent Grassland
+1010,Lowland fens,PriorityHabitats,,"Fen, Marsh and Swamp_Lowland fens (mixed vegetation)","Fen, Marsh and Swamp_Lowland fens (mixed vegetation)","Fen, Marsh and Swamp_Lowland fens (mixed vegetation)",23,Wetlands
+1011,Lowland heathland,PriorityHabitats,,Lowland Heathland,Lowland Heathland,Lowland Heathland,15,Moorland
+1012,Lowland meadows,PriorityHabitats,,Lowland Semi-natural Grassland_Lowland hay meadows,Lowland Semi-natural Grassland_Lowland hay meadows,Lowland Semi-natural Grassland_Lowland hay meadows,21,Unimproved Meadow
+1013,Lowland raised bog,PriorityHabitats,,Bog_Lowland raised bog,Bog_Lowland raised bog,Bog_Lowland raised bog,23,Wetlands
+1014,Maritime cliff and slope,PriorityHabitats,,Coastal Rock_Maritime cliff & slope,Coastal Rock_Maritime cliff & slope,Coastal Rock_Maritime cliff & slope,2,"Beaches, Sand Dunes/Plane"
+1015,Mountain heaths and willow scrub,PriorityHabitats,,Upland Heathland,Upland Heathland,Upland Heathland,15,Moorland
+1016,Mudflats,PriorityHabitats,,Coastal Sediment_Mudflats,Coastal Sediment_Mudflats,Coastal Sediment_Mudflats,0,Unsuitable
+1017,Purple moor grass and rush pastures,PriorityHabitats,,Bog_Purple moor grass & rush pastures,Bog_Purple moor grass & rush pastures,Bog_Purple moor grass & rush pastures,22,Unimproved Permanent Grassland
+1018,Reedbeds,PriorityHabitats,,"Fen, Marsh and Swamp_Reedbeds","Fen, Marsh and Swamp_Reedbeds","Fen, Marsh and Swamp_Reedbeds",23,Wetlands
+1019,Saline lagoons,PriorityHabitats,,Saltwater,Saltwater,Saltwater,0,Unsuitable
+1020,Coastal saltmarsh,PriorityHabitats,,Saltmarsh,Saltmarsh,Saltmarsh,19,Salt Marsh
+1021,Traditional orchard,PriorityHabitats,,Broadleaved Woodland,Broadleaved Woodland,Broadleaved Woodland,34,Orchards
+1022,Upland calcareous grassland,PriorityHabitats,,Upland Semi-natural Grassland,Upland Semi-natural Grassland,Upland Semi-natural Grassland,22,Unimproved Permanent Grassland
+1023,Upland hay meadow,PriorityHabitats,,Upland Semi-natural Grassland_Upland hay meadows,Upland Semi-natural Grassland_Upland hay meadows,Upland Semi-natural Grassland_Upland hay meadows,21,Unimproved Meadow
+1024,Upland heathland,PriorityHabitats,,Upland Heathland,Upland Heathland,Upland Heathland,15,Moorland
+1025,"Upland flushes, fens and swamps",PriorityHabitats,,"Bog_Upland flushes, fens & swamps","Bog_Upland flushes, fens & swamps","Bog_Upland flushes, fens & swamps",23,Wetlands
+1026,Fragmented heath,PriorityHabitats,,,Lowland Heathland,Upland Heathland,15,Moorland
+1027,Grass moorland,PriorityHabitats,,,Lowland Heathland_Heather grassland (i.e. low heather density),Upland Heathland_Heather grassland (i.e. low heather density),15,Moorland
+1028,Good quality semi-improved grassland,PriorityHabitats,,Improved Grassland,Improved Grassland,Improved Grassland,22,Unimproved Permanent Grassland
+180,Motorway,OSRoads,Motorway,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+181,A Road,OSRoads,A,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+182,B Road,OSRoads,Minor,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+183,Minor Road,OSRoads,Minor,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+184,Local Road,OSRoads,Minor,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+185,Local Access Road,OSRoads,Minor,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+186,Restricted Local Access Road,OSRoads,Minor,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+187,Secondary Access Road,OSRoads,Minor,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+190,RailTrack_MultiTrack,OSDistrict,,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+191,RailTrack_SingleTrack,OSDistrict,,"Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)","Dense urban (built-up areas with little vegetation, e.g. city centres & industrial estates)",0,Unsuitable
+80,canal,OSDistrict_OSRivers,,Freshwater_Canal,Freshwater_Canal,Freshwater_Canal,0,Unsuitable
+81,inlandRiver,OSDistrict_OSRivers,,Freshwater_River,Freshwater_River,Freshwater_River,0,Unsuitable
+82,lake,OSDistrict,,Freshwater_Lake,Freshwater_Lake,Freshwater_Lake,0,Unsuitable
+83,tidalRiver,OSDistrict_OSRivers,,Saltwater,Saltwater,Saltwater,0,Unsuitable
+84,stream,OSDistrict_OSRivers,,Freshwater_Stream,Freshwater_Stream,Freshwater_Stream,0,Unsuitable
+85,pond,OSDistrict,,Freshwater_Pond,Freshwater_Pond,Freshwater_Pond,0,Unsuitable
+NA,NoLand,,,NoLand,NoLand,NoLand,0,Unsuitable

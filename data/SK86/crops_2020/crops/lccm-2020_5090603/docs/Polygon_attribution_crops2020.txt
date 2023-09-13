@@ -1,0 +1,21 @@
+poly_id  -  this attribute is the source LCM2007 parcel ID.
+gid - this is the LC Plus Crops unique id used when creating the Crops product.
+parent - this attribute stores the parent's poly_id for all subdivided parcels.
+crop -  this attribute contains the classified crop. The definition of the entries for this attribute is include below.
+
+The crop codes used in the crop attribute are as follows:
+ww = Winter wheat
+sb = Spring barley
+sw = Spring Wheat
+wb = Winter barley
+be = Beet (sugar beet / fodder beet)
+fb = Field beans
+ma = Maize
+or = Oilseed rape
+po = Potatoes
+gr = Grass
+ot = Other crops
+pe = Peas
+sl = Solar panels
+so = Spring oats
+wo = Winter oats

@@ -1,0 +1,47 @@
+********************************************************************
+
+EDINA DIGIMAP:
+
+DIGITAL DATA SUPPLY
+
+********************************************************************
+
+
+This data is distributed under licence by:
+
+    EDINA
+    University of Edinburgh
+    https://edina.ac.uk
+
+    Tel:    0131 650 3302
+    Fax:    0131 650 3308
+    Email:  digimap@ed.ac.uk
+		
+
+
+---------------------------------------------------------
+
+CONTENTS
+
+You will have received the data files listed below, each product and area has
+its own folder. Note that each data folder contains a conditions.txt file
+which states the conditions for use of the data within. These conditions can
+vary between different data products.
+
+
+
+-------------------------------------------------------------------------------
+Folder:           lcm-2020-vec_4558456
+Extent:           480000.0, 360000.0 - 490000.0, 370000.0
+Date Ordered:     4 May 2022 at 22:24:33
+Product:          Land Cover Map 2020
+Version:          2020
+Format:           GeoPackage
+Theme:            N/A
+Area:             100.0 square kilometres
+Chunks:
+ 
+Filename:         lcm-2020-vec_4558456/lcm-2020-vec_4558456.gpkg
+Extent:           480000.0, 360000.0 - 490000.0, 370000.0
+Last Amended:     10 September 2021
+     

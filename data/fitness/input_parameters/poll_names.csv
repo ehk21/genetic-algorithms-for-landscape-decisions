@@ -1,0 +1,9 @@
+species,species_name,wild_managed,solitary_social,foraging_P1,foraging_P2,foraging_P3
+1,GroundNestingBumblebees,wild,social,q,w,w
+2,GroundNestingSolitaryBees,wild,solitary,q,none,none
+3,AphidophagusHoverflies,wild,hoverfly,,,
+4,NonAphidophagusHoverflies,wild,hoverfly,,,
+5,HoneyBees,managed,social,q,w,w
+6,CavityNestingSolitaryBees,wild,solitary,q,none,none
+7,TreeNestingSolitaryBees,wild,solitary,q,none,none
+8,TreeNestingBumblebees,wild,social,q,w,w

@@ -1,0 +1,9 @@
+crop,Code_ExpOp_GFS,Year,Yield_tonnesperha,Price_GBPpertonne,Price_GPBperha,Source
+OS,33,2020,2.7,348.9278752,942.105,AUK
+FB,28,2020,3,204.4198895,613.260,AUK
+Coniferous Woodland,3,2020,,,45.455,Forestry commission 2017 – NPV for lowland conifer at £6 per tonne of carbon sequestered.
+Deciduous Woodland,4,2020,,,11.000,Forestry commission 2017 – NPV for broadleaved woodland (game/biodiversity) at £6 per tonne of carbon sequestered.
+Fallow,6,2020,,,522.000,Countryside stewardship (AB15 two year sown legume fallow)
+Improved Permanent Grasslands,14,2020,4.5,110.2653,496.194,"Price: Hay and straw prices – British Hay & Straw Merchant’s association. Pick up baled seed hay, average over 2020. Yield: the Agricultural Notebook (Tom’s copy); medium crop."
+Unimproved Meadow,21,2020,,,511.000,Countryside stewardship (AB1 nectar flower mix)
+Cereal,30,2020,7,159.6456896,1117.520,AUK(wheat)
