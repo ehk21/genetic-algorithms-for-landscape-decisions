@@ -1,6 +1,5 @@
 ################################################################################
 ################################################################################
-#' ehk21@ic.ac.uk - May 2022
 #' 
 #' Updated nsga2R function to suit landscape optimisation. Now has new input arguments according to fitness function... 
 #' 
