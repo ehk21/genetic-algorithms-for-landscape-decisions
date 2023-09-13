@@ -1,6 +1,5 @@
 ################################################################################
 ################################################################################
-#' ehk21@ic.ac.uk - May 2022
 #' 
 #' Function to separate landcover data into fields which will be shuffled during optimisation and fields which won't be shuffled during optimisation 
 #' 
