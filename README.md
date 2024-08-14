@@ -17,7 +17,7 @@ Includes all model data required to run the model in R, as well as to reproduce 
 Includes individual RDS files containing the 'raw' results of each separate numerical trial.
 
 #### **results RDS file **
-Compiles the results of the above RDS files (i.e. each repeat of each experiment), including the assignment of land covers to final landscape populations by field ('populations') or pixels ('pixels'), the fitness score of each optimised landscape ('fitnessScores') and the calculated patch density of each optimised landscape ('patchDensity).
+Compiles the results of the above RDS files (i.e. each repeat of each experiment), including the assignment of land covers to final landscape populations by field ('populations') or pixels ('pixels'), the fitness score of each optimised landscape ('fitnessScores') and the calculated patch density of each optimised landscape ('patchDensity').
 
 #### **CSV files:**
 
