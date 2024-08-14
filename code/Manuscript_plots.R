@@ -17,7 +17,7 @@ library(rasterVis)
 library(stringr)
 
 # read in data -----
-results <- readRDS("data/results")
+results <- readRDS("results/results")
 populations <- results$populations
 fitnessScores <- results$fitnessScores
 pixels <- results$pixels
@@ -25,8 +25,8 @@ nfScores <- results$floralNestingScores
 patchDensity <- results$patchDensity
 optimLandcovers <- read.csv("data/optim_landcovers.csv")
 landcoverScores <- read.csv("data/landcover_scores.csv")
-objectiveScores <- read.csv("data/objective_scores.csv")
-objectiveScoresOptim <- read.csv("data/objective_scores_optimised_region.csv")
+objectiveScores <- read.csv("results/objective_scores.csv")
+objectiveScoresOptim <- read.csv("results/objective_scores_optimised_region.csv")
 
 # prepare data ----
 pixels$optim[pixels$optim=="Farmer"] <- "GNB + TNB + GNS + Farmer"
