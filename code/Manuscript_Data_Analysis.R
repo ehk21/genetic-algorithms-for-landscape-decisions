@@ -9,7 +9,7 @@ library(reshape2)
 
 # load data ----
 
-results <- readRDS("data/results")
+results <- readRDS("results/results")
 populations <- results$populations
 fitnessScores <- results$fitnessScores
 pixels <- results$pixels
