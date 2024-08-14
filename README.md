@@ -6,7 +6,7 @@ This repository contains all the code and data needed to replicate the optimisat
 Please download entire repository and open NSGA2_bees.Rproj in order to run the code.
 
 ### **code/** 
-Includes all new and modified functions required to run the model in R (NSGA2R package installation also required (Tsou, 2022)). 
+Includes all new and modified functions required to run the model in R (NSGA2R package installation also required (Tsou, 2022)), as well as all code needed to replicate the analyses and plots included in the manuscript.
 
 ### **data/**
 Includes all model data required to run the model in R, as well as to reproduce all analyses and plots included in the manuscript.
@@ -17,7 +17,7 @@ Includes all model data required to run the model in R, as well as to reproduce 
 Includes individual RDS files containing the 'raw' results of each separate numerical trial.
 
 #### **results RDS file **
-Compiles the results of the above RDS files (i.e. each repeat of each experiment), including the assignment of land covers to final landscape populations by field ('populations') or pixels ('pixels'), the fitness score of each optimised landscape ('fitnessScores') and the patch density of each optimised landscape ('patchDensity).
+Compiles the results of the above RDS files (i.e. each repeat of each experiment), including the assignment of land covers to final landscape populations by field ('populations') or pixels ('pixels'), the fitness score of each optimised landscape ('fitnessScores') and the calculated patch density of each optimised landscape ('patchDensity).
 
 #### **CSV files:**
 
